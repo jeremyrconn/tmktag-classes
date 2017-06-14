@@ -8,7 +8,7 @@
 - Compare calling functions with multiple arguments in es5 & es6
 
 
-
+## Rest Parameters
 
 ### ES5 multiple argument function
 
@@ -49,6 +49,8 @@ display('MLBAM', 'Jeremy', '40', 'Software Engineer', 'Hockey');
 - When you call a function and apply `(...)` to an object like an array it will assign the contents of the array to multiple variables in the order they appear in the array. This is `Spread Syntax`.
 
 </details>
+
+## Spread Syntax
 
 ### ES5 calling a function with multiple arguments from an array
 
