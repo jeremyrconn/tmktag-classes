@@ -49,9 +49,9 @@ display('MLBAM', 'Jeremy', '40', 'Software Engineer', 'Hockey');
 <details>
 <summary>(...) Operator</summary>
 
-- When using `(...)` with a function declaration any following arguments when the function is called will be grouped into that 'rest parameter' as an array. The rest parameter must always be the last argument in the function declaration.
+- When using `(...)` with a function declaration any following arguments when the function is called will be grouped into that `Rest Parameter` as an array. The rest parameter must always be the last argument in the function declaration.
 
-- When you call a function and apply `(...)` to an object like an arry it will assign the contents of the array to multiple variables in the order they appear in the array. This is `Spread Syntax`.
+- When you call a function and apply `(...)` to an object like an array it will assign the contents of the array to multiple variables in the order they appear in the array. This is `Spread Syntax`.
 
 </details>
 
