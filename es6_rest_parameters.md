@@ -53,6 +53,8 @@ display('MLBAM', 'Jeremy', '40', 'Software Engineer', 'Hockey');
 
 - When you call a function and apply `(...)` to an object like an arry it will assign the contents of the array to multiple variables in the order they appear in the array. This is `Spread Syntax`.
 
+</details>
+
 ### ES5 calling a function with multiple arguments from an array
 
 ```js
