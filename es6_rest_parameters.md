@@ -1,4 +1,5 @@
-# ES6 Rest Parameters
+# ES6 Using (...) 
+# Rest Parameters and Spread Syntax
 
 ### Learning Objectives
 - How to use the (...) operator in es6
