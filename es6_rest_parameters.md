@@ -19,8 +19,6 @@ function display(company, name, age, title, sport){
   	this.age = age;
   	this.title = title; 
   	this.sport = sport || 'Baseball';
-	var div = document.getElementById('output');
-	div.innerHTML = div.innerHTML + '<br /><hr /><br/>Company: ' + company + '<br/>Name: ' + name + '<br />Age: ' + age + '<br />Title: ' + title + '<br />Favourite Sport: ' + sport;
 }
 
 display('MLBAM', 'Jeremy', '40', 'Software Engineer', 'Hockey');
@@ -36,11 +34,6 @@ function display(company, ...teamData){
   	this.age = teamData[1];
   	this.title = teamData[2]; 
   	this.sport = teamData[3] || 'Baseball';
-	var div = document.getElementById('output');
-  
-  	var output = ['<br /><hr /><br/>Company: ' + company, '<br/>Name: ' + name, '<br />Age: ' + age, '<br />Title: ' + title, '<br />Favourite Sport: ' + sport];
-  
-	div.innerHTML = div.innerHTML + output;
 }
 
 
