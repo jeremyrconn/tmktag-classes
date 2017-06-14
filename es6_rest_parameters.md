@@ -48,11 +48,3 @@ display('Jeremy', 'Elan', 'Mat', 'Shojib', 'Bob', 'Stephen');
 
 - What are some of the differences between the old syntax and the new?
 
-
-
-
-
-# Exercise P2
-
-- Using the new ES6 inheritance features, clean up the two constructors we just converted
-
