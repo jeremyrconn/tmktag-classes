@@ -4,7 +4,8 @@
 ### Learning Objectives
 - How to use the (...) operator in es6
 - Differences between Rest Parameter and Spread Syntax
-- Compare multiple argument functions in es5 vs es6
+- Compare multiple argument function declarations in es5 & es6
+- Compare calling functions with multiple arguments in es5 & es6
 
 
 
